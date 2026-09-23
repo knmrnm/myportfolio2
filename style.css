@@ -1341,4 +1341,8 @@ footer {
   opacity: 1;
   transform: rotate(0deg) scale(1);
 }
+.project-card {
+    text-decoration: none;
+    color: inherit;
+}
 
